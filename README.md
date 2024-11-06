@@ -8,7 +8,7 @@ A passionate **Business Intelligence (BI)** and **Data Analytics** enthusiast wi
 
 - **Problem Solving**: Skilled in identifying and implementing solutions to complex challenges in data and business contexts.
 - **Critical Thinking**: Analyzes and interprets data for strategic insights and informed decision-making.
-- **Data Analytics**: Experienced in uncovering trends and patterns, enhancing understanding, and supporting business goals.
+- **Data Analytics**: Experienced in uncovering trends and patterns, applying **inferential statistics** (hypothesis testing, regression analysis, confidence intervals), and supporting business goals.
 - **Report Generation**: Creates comprehensive, actionable reports tailored to business needs.
 - **Data-Driven Decision Making**: Passionate about using data insights to guide strategic directions and operational improvements.
 - **Communication**: Effectively communicates technical information and analysis to both technical and non-technical audiences.
@@ -19,12 +19,14 @@ A passionate **Business Intelligence (BI)** and **Data Analytics** enthusiast wi
 
 | Skill Category         | Tools/Technologies                                                                 |
 |------------------------|--------------------------------------------------------------------------------------|
-| **Programming**         | SQL, NoSQL, PLSQL, HTML5, CSS3, JavaScript, Python, C, **PostgreSQL**                 |
+| **Programming**         | SQL, NoSQL, PLSQL, HTML5, CSS3, JavaScript, Python, C                               |
 | **Web Development**     | **WordPress**                                                                       |
 | **Project Management**  | JIRA                                                                                 |
 | **Enterprise Systems**  | Odoo ERP, VICIdial CRM                                                              |
 | **Data Visualization**  | Power BI, Tableau, IBM Cognos, MS Excel                                             |
 | **Software & Tools**    | SSMS, MongoDB, MySQL, WampServer, MS Word, MS PowerPoint, **Visual Basic Studio**   |
+| **Databases**           | **PostgreSQL**                                                                      |
+| **Statistical Analysis**| **Inferential Statistics**, Hypothesis Testing, Regression Analysis, Confidence Intervals |
 | **Modeling & Design**   | UML                                                                                 |
 | **UX/UI**               | **UX/UI Design** (Prototyping, Wireframing, User-Centered Design)                    |
 
@@ -44,6 +46,10 @@ A passionate **Business Intelligence (BI)** and **Data Analytics** enthusiast wi
 ### **FIFA World Cup 2022 Website**
 **Description**: Built a static website to showcase teams and players participating in the 2022 FIFA World Cup.  
 **Technologies**: HTML/CSS, JavaScript.
+
+### **Job Portal Website (Employee-Employer Connection)**
+**Description**: Developed a website where employees (job seekers) can connect with employers. The website allows users to apply for jobs, post job openings, and see job listings that match their resumes based on job description and skills.  
+**Technologies**: HTML, CSS, JavaScript, PostgreSQL, PHP.
 
 ---
 
