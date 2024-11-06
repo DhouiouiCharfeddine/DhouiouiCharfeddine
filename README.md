@@ -19,12 +19,14 @@ A passionate **Business Intelligence (BI)** and **Data Analytics** enthusiast wi
 
 | Skill Category         | Tools/Technologies                                                                 |
 |------------------------|--------------------------------------------------------------------------------------|
-| **Programming**         | SQL, NoSQL, PLSQL, HTML5, CSS3, JavaScript, Python, C                                |
+| **Programming**         | SQL, NoSQL, PLSQL, HTML5, CSS3, JavaScript, Python, C, **PostgreSQL**                 |
+| **Web Development**     | **WordPress**                                                                       |
 | **Project Management**  | JIRA                                                                                 |
 | **Enterprise Systems**  | Odoo ERP, VICIdial CRM                                                              |
 | **Data Visualization**  | Power BI, Tableau, IBM Cognos, MS Excel                                             |
-| **Software & Tools**    | SSMS, MongoDB, MySQL, WampServer, MS Word, MS PowerPoint                            |
+| **Software & Tools**    | SSMS, MongoDB, MySQL, WampServer, MS Word, MS PowerPoint, **Visual Basic Studio**   |
 | **Modeling & Design**   | UML                                                                                 |
+| **UX/UI**               | **UX/UI Design** (Prototyping, Wireframing, User-Centered Design)                    |
 
 ---
 
